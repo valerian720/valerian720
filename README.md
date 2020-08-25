@@ -8,4 +8,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: valerian.tagme@yandex.ru
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: over engineering exists
+- ⚡ Fun fact: overengineering exists
