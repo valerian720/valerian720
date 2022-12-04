@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [REDACTED]
-- 🌱 I’m currently learning how to unsee things
-- 👯 I’m looking to collaborate on [REDACTED]
-- 🤔 I’m looking for help with [REDACTED]
+- 🔭 I’m currently working on [Object object]
+- 🌱 I’m currently learning how to [Object object]
+- 👯 I’m looking to collaborate on [Object object]
+- 🤔 I’m looking for help with [Object object]
 - 💬 Ask me about Anything
 - 📫 How to reach me: valerian.tagme@yandex.ru
 - 😄 Pronouns: He/Him
