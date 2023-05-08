@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Deployed apps:
+https://valerian720.github.io/eve-online-style-fit-test/
+https://valerian720.github.io/balancing-interface-test/
 
 - 🔭 I’m currently working on [Object object]
 - 🌱 I’m currently learning how to [Object object]
