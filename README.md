@@ -8,10 +8,10 @@ https://valerian720.github.io/balancing-interface-test/
 
 https://valerian720.github.io/rouge-like/
 
-- 🔭 I’m currently working on [Object object]
-- 🌱 I’m currently learning how to [Object object]
-- 👯 I’m looking to collaborate on [Object object]
-- 🤔 I’m looking for help with [Object object]
+- 🔭 I’m currently working on several test projects nd one pet project
+- 🌱 I’m currently learning how to use UE5, TS, 
+- 👯 I’m looking to collaborate on valerian720/eve-online-style-fit-test 
+- 🤔 I’m looking for help with ideas on valerian720/eve-online-style-fit-test 
 - 💬 Ask me about Anything
 - 📫 How to reach me: valerian.tagme@yandex.ru
 - 😄 Pronouns: He/Him
