@@ -2,11 +2,17 @@
 
 Deployed apps:
 
+https://valerian720.github.io/hls-video-player/
+
 https://valerian720.github.io/eve-online-style-fit-test/
 
 https://valerian720.github.io/balancing-interface-test/
 
 https://valerian720.github.io/rouge-like/
+
+Microservice:
+
+https://github.com/valerian720/fastapi-measurement-form
 
 - 🔭 I’m currently working on several test projects nd one pet project
 - 🌱 I’m currently learning how to use UE5, TS, 
