@@ -14,11 +14,10 @@ Microservice:
 
 https://github.com/valerian720/fastapi-measurement-form
 
-- 🔭 I’m currently working on several test projects nd one pet project
-- 🌱 I’m currently learning how to use UE5, TS, 
-- 👯 I’m looking to collaborate on valerian720/eve-online-style-fit-test 
-- 🤔 I’m looking for help with ideas on valerian720/eve-online-style-fit-test 
+- 🔭 I’m currently working on several test projects
+- 🌱 I’m currently learning how to use UE5, TS
+- 👯 I’m looking to collaborate on valerian720/landing-cms-vue
+- 🤔 I’m looking for help with ideas on valerian720/landing-cms-vue 
 - 💬 Ask me about how did we ended up here
 - 📫 How to reach me: valerian.tagme@yandex.ru
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: overengineering exists
