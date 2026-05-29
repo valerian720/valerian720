@@ -3,8 +3,11 @@
 Deployed apps:
 
 https://valerian720.github.io/hls-video-player/
+
 https://valerian720.github.io/balancing-interface-test/
+
 https://valerian720.github.io/eve-online-style-fit-test/
+
 https://valerian720.github.io/rouge-like/
 
 Microservice:
