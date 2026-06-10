@@ -2,6 +2,8 @@
 
 Deployed apps:
 
+https://valerian720.github.io/landing-cms-vue/
+
 https://valerian720.github.io/hls-video-player/
 
 https://valerian720.github.io/balancing-interface-test/
