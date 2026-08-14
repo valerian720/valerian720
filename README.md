@@ -18,7 +18,7 @@ To rewrite:
 
 https://valerian720.github.io/rouge-like/
 
-Additional
+Additional:
 
 https://valerian720.github.io/audio-recording/
 
