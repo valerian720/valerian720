@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Deployed apps:
+## Deployed apps:
 
 https://valerian720.github.io/landing-cms-vue/
 
@@ -10,15 +10,15 @@ https://valerian720.github.io/balancing-interface-test/
 
 https://valerian720.github.io/eve-online-style-fit-test/
 
-Microservice:
+## Microservice:
 
 https://github.com/valerian720/fastapi-measurement-form
 
-To rewrite:
+## To rewrite:
 
 https://valerian720.github.io/rouge-like/
 
-Additional:
+## Additional:
 
 https://valerian720.github.io/audio-recording/
 
