@@ -24,6 +24,7 @@ https://valerian720.github.io/audio-recording/
 
 https://valerian720.github.io/img-snap/
 
+https://valerian720.github.io/emoji2ico/
 
 - 🔭 I’m currently working on several test projects
 - 🌱 I’m currently learning how to use UE5, TS
