@@ -26,6 +26,8 @@ https://valerian720.github.io/img-snap/
 
 https://valerian720.github.io/emoji2ico/
 
+https://valerian720.github.io/img-color-palette/
+
 - 🔭 I’m currently working on several test projects
 - 🌱 I’m currently learning how to use UE5, TS
 - 👯 I’m looking to collaborate on valerian720/landing-cms-vue
